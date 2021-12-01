@@ -2,11 +2,11 @@
 
 The files in this repository were used to configure the network depicted below.
 
-ElkStackDeployment/README/Images/Screenshot 2021-12-01 152958.png
+https://github.com/SpencerNoYume/ElkStackDeployment/blob/main/README/Images/Screenshot%202021-12-01%20152958.png
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the roles directory may be used to install only certain pieces of it, such as Filebeat.
 
-  - _TODO: Enter the playbook file._
+https://github.com/SpencerNoYume/ElkStackDeployment/blob/main/Ansible/roles/elk/tasks/main.yml
 
 This document contains the following details:
 - Description of the Topologu
