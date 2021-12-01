@@ -81,6 +81,6 @@ In order to use the playbook, you will need to have an Ansible control node alre
 SSH into the control node and follow the steps below:
 - Copy the roles directory and the playbook.yml file to /etc/ansible
 - Update the /etc/ansible/hosts file to include the IP addresses of the targe Elk serve and webservers.
-- Run the playbook, and navigate to http://[elk_ip_addr]:5601/app/kibana to check that the installation worked as expected.
+- Run the playbook, and navigate to http://[10.1.0.4]:5601/app/kibana to check that the installation worked as expected.
 
 
